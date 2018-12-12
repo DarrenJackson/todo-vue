@@ -1,6 +1,6 @@
 # todo-vue
 
-> A Vue.js project
+> Part 2 - Move the item of the list into its own component
 
 ## Build Setup
 
