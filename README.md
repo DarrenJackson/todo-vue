@@ -1,6 +1,7 @@
 # todo-vue
 
-> A Vue.js project
+> Part 1 - Build a todo list using one component
+
 
 ## Build Setup
 
